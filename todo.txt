@@ -1,0 +1,2 @@
+ios setup still needed
+https://www.npmjs.com/package/react-native-audio-recorder-player
